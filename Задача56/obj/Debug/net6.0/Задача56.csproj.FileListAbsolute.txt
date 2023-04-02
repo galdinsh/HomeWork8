@@ -1,0 +1,15 @@
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\obj\Debug\net6.0\Задача56.csproj.AssemblyReference.cache
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\obj\Debug\net6.0\Задача56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\obj\Debug\net6.0\Задача56.AssemblyInfoInputs.cache
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\obj\Debug\net6.0\Задача56.AssemblyInfo.cs
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\obj\Debug\net6.0\Задача56.csproj.CoreCompileInputs.cache
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\bin\Debug\net6.0\Задача56.exe
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\bin\Debug\net6.0\Задача56.deps.json
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\bin\Debug\net6.0\Задача56.runtimeconfig.json
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\bin\Debug\net6.0\Задача56.dll
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\bin\Debug\net6.0\Задача56.pdb
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\obj\Debug\net6.0\Задача56.dll
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\obj\Debug\net6.0\refint\Задача56.dll
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\obj\Debug\net6.0\Задача56.pdb
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\obj\Debug\net6.0\Задача56.genruntimeconfig.cache
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар8\HomeWork8\Задача56\obj\Debug\net6.0\ref\Задача56.dll
