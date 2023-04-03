@@ -1,4 +1,6 @@
-﻿int row = 12;
+﻿// Взята с лекции
+
+int row = 12;
 int[,] triangle = new int[row, row];
 const int cellWidth = 4;
 
