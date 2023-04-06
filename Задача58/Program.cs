@@ -89,7 +89,6 @@ PrintMatrix(matrix);
 //     return result;
 // }
 
-
 // Console.Clear();
 // Console.Write("Введите размер матриц: "); // размеры матриц должны быть одинаковые
 // int[] size = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
